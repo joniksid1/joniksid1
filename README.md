@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Mikhail, fullstack developer.
+I'm Mikhail, a fullstack developer.
 
-Current skills: 
+My current skills: 
 
 <h3 align="left">HTML/CSS:</h3>
 
@@ -42,6 +42,6 @@ Current skills:
 <a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" /> </a> &nbsp;
 </p>
 
-- 🔭 I’m currently working on commercial project for fan calculation.
-- 👯 I’m looking to collaborate on interesting projects as web-developer.
-- 📫 How to reach me: telegram @vvctb or just send me an e-mail for jonik.sid1@gmail.com.
+- 🔭 I’m currently working on a commercial project for fan calculation.
+- 👯 I’m looking to collaborate on interesting projects as a web developer.
+- 📫 How to reach me: telegram @vvctb or just send me an e-mail to jonik.sid1@gmail.com."
