@@ -7,8 +7,8 @@ My current skills:
 <h3 align="left">HTML/CSS:</h3>
 
 <p align="left">
-<a href="https://www.w3.org/html/"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="50" height="50" /> </a> &nbsp; > 
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="50" height="50" /> </a> &nbsp; >
+<a href="https://www.w3.org/html/"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="50" height="50" /> </a> &nbsp;
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="50" height="50" /> </a> &nbsp;
 </p>
 
 <h3 align="left">Webpack/Vite:</h3>
