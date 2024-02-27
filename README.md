@@ -44,4 +44,4 @@ My current skills:
 
 - 🔭 I’m currently working on a commercial project for fan calculation.
 - 👯 I’m looking to collaborate on interesting projects as a web developer.
-- 📫 How to reach me: telegram @vvctb or just send me an e-mail to jonik.sid1@gmail.com."
+- 📫 How to reach me: telegram @vvctb or just send me an e-mail to jonik.sid1@gmail.com
